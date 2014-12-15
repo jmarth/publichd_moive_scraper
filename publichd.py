@@ -1,6 +1,6 @@
 
 import bs4
-from koditorrent import mechanize
+import mechanize
 import urllib2
 import cookielib
 import re
